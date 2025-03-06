@@ -1,0 +1,2 @@
+/Users/agenghadiwicaksono/flutter app/students_attendance_with_mlkit/android/app/.cxx/RelWithDebInfo/3zx2y5wk/x86_64/CMakeFiles/edit_cache.dir
+/Users/agenghadiwicaksono/flutter app/students_attendance_with_mlkit/android/app/.cxx/RelWithDebInfo/3zx2y5wk/x86_64/CMakeFiles/rebuild_cache.dir
