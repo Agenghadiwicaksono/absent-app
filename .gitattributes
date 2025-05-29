@@ -13,6 +13,7 @@ Makefile linguist-detectable=false
 *.h linguist-vendored
 *.swift linguist-vendored
 *.html linguist-vendored
+*.kotlin linguist-vendored
 *.rb linguist-vendored
 *.java linguist-vendored
 *.py linguist-vendored
